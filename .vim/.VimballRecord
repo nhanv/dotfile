@@ -1,0 +1,2 @@
+supertab.vba: call delete('/home/hitamu/.vim/doc/supertab.txt')|call delete('/home/hitamu/.vim/plugin/supertab.vim')
+tcomment.vba: call delete('/home/hitamu/.vim/doc/tcomment.txt')|call delete('/home/hitamu/.vim/plugin/tcomment.vim')|call delete('/home/hitamu/.vim/autoload/tcomment.vim')
